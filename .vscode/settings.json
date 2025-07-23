@@ -1,0 +1,14 @@
+{
+  "typescript.tsserver.maxTsServerMemory": 2048,
+  "editor.semanticHighlighting.enabled": false,
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/dist": true,
+    "**/.next": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/dist": true,
+    "**/.next": true
+  }
+}
