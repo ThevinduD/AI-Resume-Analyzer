@@ -49,7 +49,7 @@ const ATS = ({
                   : "/icons/warning.svg"
               }
               alt="ATS"
-              className="w-5 h-5 mt-[5px]"
+              className="w-5 h-5 mt-[6px]"
             />
             <p className="text-lg text-gray-500 leading-8">{suggestion.tip}</p>
           </div>
